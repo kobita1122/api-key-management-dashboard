@@ -1,0 +1,24 @@
+body {
+  background: #020617;
+  color: #e5e7eb;
+  font-family: Arial;
+  padding: 40px;
+}
+
+button {
+  padding: 10px 16px;
+  margin-bottom: 20px;
+  border: none;
+  background: #3b82f6;
+  cursor: pointer;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th, td {
+  border: 1px solid #334155;
+  padding: 10px;
+}
